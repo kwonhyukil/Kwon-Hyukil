@@ -9,7 +9,6 @@
 
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=kwonhyukil&show_icons=true&theme=holi" width="49%" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=kwonhyukil" width="42%" />
 </div>
 
 <br/><br/><br/><br/><br/>
